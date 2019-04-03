@@ -1,10 +1,11 @@
 .elementor-74 .elementor-element.elementor-element-97d183e:not(.elementor-motion-effects-element-type-background), .elementor-74 .elementor-element.elementor-element-97d183e > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://sunberrysolar.github.io/wp_sunberry/wp-content/uploads/2019/03/bg-header-1600x908.jpeg");}
-.elementor-74 .elementor-element.elementor-element-97d183e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;}
+.elementor-74 .elementor-element.elementor-element-97d183e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: -100px;margin-bottom: 0px;}
 .elementor-74 .elementor-element.elementor-element-97d183e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-74 .elementor-element.elementor-element-97d183e > .elementor-shape-bottom svg {width: calc(100% + 1.3px);height: 33px;}
 .elementor-74 .elementor-element.elementor-element-ad36a23 {text-align: center;}
 .elementor-74 .elementor-element.elementor-element-ad36a23.elementor-widget-heading .elementor-heading-title {color: #ededed;}
 .elementor-74 .elementor-element.elementor-element-ad36a23 .elementor-heading-title {font-weight: bold;line-height: 5.7em;text-shadow: 0px 0px 10px rgba(0,0,0,.75);}
+.elementor-74 .elementor-element.elementor-element-ad36a23 > .elementor-widget-container {margin: 60px 0px 0px 0px;}
 .elementor-74 .elementor-element.elementor-element-32c0bad {text-align: left;}
 .elementor-74 .elementor-element.elementor-element-430a485 {font-size: 17px;}
 .elementor-74 .elementor-element.elementor-element-f53371f {font-size: 17px;}
