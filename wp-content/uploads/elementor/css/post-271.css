@@ -1,5 +1,5 @@
 .elementor-271 .elementor-element.elementor-element-c4e676f:not(.elementor-motion-effects-element-type-background), .elementor-271 .elementor-element.elementor-element-c4e676f > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://sunberrysolar.github.io/wp_sunberry/wp-content/uploads/2019/03/bg-header-1600x908-e1553603497965.jpeg");}
-.elementor-271 .elementor-element.elementor-element-c4e676f {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
+.elementor-271 .elementor-element.elementor-element-c4e676f {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: -100px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
 .elementor-271 .elementor-element.elementor-element-c4e676f > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-271 .elementor-element.elementor-element-a12e255 {text-align: center;}
 .elementor-271 .elementor-element.elementor-element-a12e255.elementor-widget-heading .elementor-heading-title {color: #fff;}
@@ -10,6 +10,7 @@
 .elementor-271 .elementor-element.elementor-element-328d9fe9:not(.elementor-motion-effects-element-type-background), .elementor-271 .elementor-element.elementor-element-328d9fe9 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #3a3a3a;}
 .elementor-271 .elementor-element.elementor-element-328d9fe9 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
 .elementor-271 .elementor-element.elementor-element-328d9fe9 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-@media (max-width:767px) {.elementor-271 .elementor-element.elementor-element-c4e676f {padding: 0px 0px 0px 0px;}
+@media (max-width:1024px) {.elementor-271 .elementor-element.elementor-element-c4e676f {margin-top: 0px;margin-bottom: 0px;}}
+@media (max-width:767px) {.elementor-271 .elementor-element.elementor-element-c4e676f {margin-top: 0px;margin-bottom: 0px;padding: 0px 0px 0px 0px;}
 	.elementor-271 .elementor-element.elementor-element-a12e255 .elementor-heading-title {font-size: 30px;}
 	.elementor-271 .elementor-element.elementor-element-a12e255 > .elementor-widget-container {margin: 15px 0px 15px 0px;}}
